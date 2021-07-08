@@ -1,0 +1,68 @@
+body{
+  
+    background-image: url(crowd-1056764_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+#container
+{
+
+    background-color: #ebf2ff;
+    border:5px solid white;
+    height: 315px;
+    width:750px;
+    margin:0 auto;
+    text-align: center;
+}
+#btn
+{
+    margin:50px auto;
+    height:50px;
+    width:250px;
+    font-size: 22px;
+    background-color:deepskyblue;
+   
+}
+#output
+{
+    margin:25px auto;
+    font-size: 26px;
+    color:deeppink;
+    font-size: 2.5em;
+    
+
+}
+@media (max-width:480px)
+{
+
+    #container
+{
+
+    background-color: #ebf2ff;
+    border:5px solid white;
+    height: 250px;
+    width:250px;
+    margin:0 auto;
+    text-align: center;
+}
+#output
+{
+    margin:25px auto;
+    font-size: 16px;
+    color:deeppink;
+    font-size: 1.5em;
+    
+
+}
+body{
+    padding-top:150px;
+  
+    background-image: url(1.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+}
